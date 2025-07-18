@@ -7,7 +7,7 @@
   🔭 Currently working on MERN projects & AI automation<br>
   🌱 Exploring Deep Learning, GenAI, and scalable backend systems<br>
   📫 Reach me: <a href="mailto:gauravshrivastava1445@gmail.com">gauravshrivastava1445@gmail.com</a><br>
-  🌐 Portfolio: <a href="https://your-portfolio-link.com">your-portfolio-link.com</a>
+  🌐 Portfolio: <a href="https://portfolio-h2qi.onrender.com">portfolio</a>
 </p>
 
 ---
@@ -45,6 +45,6 @@
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/gauravshrivastava14)
-[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/gauravshrivastava14)
+[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://www.linkedin.com/in/gaurav-shrivastava-ba0316253/)
 
 ---
